@@ -4,7 +4,7 @@
   
 - Xpert in Java Core
 - Xpert in JWT
-- Xpert in Servelets
+- Xpert in Servlet
 - Xpert in JSP
 - Xpert in EJB
 - Xpert in Mysql
