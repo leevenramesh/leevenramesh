@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi I m leevenramesh 👋
 
-<!--
-**leevenramesh/leevenramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java Fullstack Developer
+  
+- Xpert in Java Core
+- Xpert in JWT
+- Xpert in Servelets
+- Xpert in JSP
+- Xpert in EJB
+- Xpert in Mysql
+  
+- Proficient in Spring MVC
+- Proficient in Spring Boot
+- Proficient in Microservices
+- Proficient in AWS Cloud
 
-Here are some ideas to get you started:
+- Front-End
+      - HTML5, CSS3, JavaScript
+      - React.js
+      - Bootstrap
+- Back-End
+      - Java
+      - Spring Boot& Spring MVC
+      - Microservices Architecture
+- Database
+      - MySQL
+- DevOps
+      - Docker
+- Cloud
+      - AWS
+- Deployment
+      - Godaddy, Hostinger, etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning AI Technologies
