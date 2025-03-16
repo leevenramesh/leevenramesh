@@ -3,7 +3,6 @@
 - Java Fullstack Developer
   
 - Xpert in Java Core
-- Xpert in JWT
 - Xpert in Servlet
 - Xpert in JSP
 - Xpert in EJB
